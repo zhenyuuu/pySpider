@@ -1,0 +1,8 @@
+class Animal():
+    def run(self):
+        print "Animal is running..."
+class Dog(Animal):
+    pass
+class Cat(Animal):
+    pass
+
